@@ -1,0 +1,7 @@
+{
+    "name": "tyngo",
+    "description": "Typescript declaration file for RingoJS",
+    "version": "0.1",
+    "license": "apache-2.0",
+    "author": "Michel Pérez Saavedra"
+}
